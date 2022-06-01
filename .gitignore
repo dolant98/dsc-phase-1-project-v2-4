@@ -14,8 +14,9 @@ __pycache__
 *.csv
 *.tsv
 *.db
-.jpeg
-.png
+*.jpeg
+*.png
+*.gif
 
 
 *.so
